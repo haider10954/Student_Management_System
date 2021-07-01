@@ -1,0 +1,163 @@
+﻿#Container {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient( 90deg,#948E99,#2E1437);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: solid;
+}
+hr 
+{
+	position: relative;
+	top: 20px;
+	border: none;
+	height: 12px;
+	background: black;
+	margin-bottom: 50px;
+}
+
+#Container1 {
+	background: linear-gradient( 90deg,#ee9ca7,#ffdde1);
+	padding: inherit;
+	text-align: center;
+	padding: 20px;
+}
+
+#container2 #LinkCourse {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container3 #LinkTeacher {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container4 #LinkStudent {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container5 #LinkAdmin {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container6 #LinkFeedBack {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container10 #LinkUpload {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container7 #LinkLogout {
+	display: block;
+	text-align: left;
+	padding: 20px;
+	width: 50%;
+	margin: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#304352,#d7d2cc);
+	cursor: pointer;
+}
+
+#container7 #LinkLogout:hover {
+	background-color: #3e8e41;
+}
+
+

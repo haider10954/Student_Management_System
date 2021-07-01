@@ -1,0 +1,42 @@
+﻿.ViewAdmin {
+	background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+}
+
+.Viewgrid{
+	margin-right:20px;
+}
+.h1{
+	text-align:center;
+	font-family:cursive;
+}
+.LogoutCrud {
+	background-color: #3f0d12;
+	background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+	padding:30px;
+}
+.LogoutCrud #ButLogoutCrud {
+	display: flex;
+	text-align:center;
+	padding: 20px;
+	width:auto;
+	margin-left: 30px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: #FFF;
+	box-shadow: 0 0 20px #eee;
+	background: linear-gradient( 90deg,#822424,#822424);
+	cursor: pointer;
+	border-color: #822424;
+	color: #fff;
+	box-shadow: 0 0 40px 40px #822424 inset, 0 0 0 0 #822424;
+	-webkit-transition: all 150ms ease-in-out;
+	transition: all 150ms ease-in-out;
+}
+	.LogoutCrud #ButLogoutCrud:hover {
+		box-shadow: 0 0 10px 0 #822424 inset, 0 0 10px 4px #822424;
+	}
